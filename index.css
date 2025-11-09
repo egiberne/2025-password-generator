@@ -1,0 +1,25 @@
+
+body {
+    margin:0;
+   
+
+}
+
+main {
+    width:400px;
+    margin:200px auto;
+    
+}
+
+h1, h2, p {
+    margin : 10px;
+}
+
+button{
+    margin : 10px;
+    
+}
+
+.box-dim{
+    border: 1px dotted blueviolet;
+}
