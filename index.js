@@ -7,6 +7,18 @@ const characters = [
 
 
 let passwordOne = document.getElementById("password-one")
-let passwordTwo = document.getElementById("password-Two")
+let passwordTwo = document.getElementById("password-two")
+let generateButton = document.querySelector("#generate-button")
+//let  generateButton = document.getElementById("generate-button")
 
-document.log(passwordOne)
+console.log(passwordOne)
+console.log(passwordTwo)
+console.log(generateButton)
+
+//See EmojiFighter
+generateButton.addEventListener("click",function(){
+
+    console.log("click")
+
+})
+
